@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Budget Tracker - PWA",
+      "repo": "https://github.com/Jermdude7/budget-tracker",
+      "live": "https://jeremysbudgettracker.herokuapp.com/",
+      "image": "buget.png"
+
+    },
+    {
+      "title": "Workout Tracker",
+      "repo": "https://github.com/Jermdude7/workout",
+      "live": "https://jeremysworkoutapp.herokuapp.com/",
+      "image": "fitness.png"
+
+    },
+    {
+      "title": "Note Taker",
+      "repo": "https://github.com/Jermdude7/notes",
+      "live": "https://evening-brushlands-34485.herokuapp.com/",
+      "image": "notes.png"
+    },
+    {
+      "title": "Good Games EZ",
+      "repo": "https://github.com/Jermdude7/Good_Games_E-Z",
+      "live": "https://jermdude7.github.io/Good_Games_E-Z/",
+      "image": "ggez.png"
+    },
+    {
+      "title": "Magic the Gabbering",
+      "repo": "https://github.com/Jermdude7/supreme-winner",
+      "live": "https://sheltered-tor-50073.herokuapp.com/",
+      "image": "magic.png"
+    }
+]
